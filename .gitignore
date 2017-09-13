@@ -4,4 +4,5 @@
 *.cache
 package-metadata.json
 .DS_Store
-
+# idea files
+.idea
